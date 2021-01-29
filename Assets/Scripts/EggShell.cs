@@ -61,8 +61,8 @@ public class EggShell : MonoBehaviour
             return false;
 
         // check velocity and direction
-        if (_velocity.sqrMagnitude < 1.0f)
-            return false;
+        //if (_velocity.sqrMagnitude < 1.0f)
+        //    return false;
 
         //if (Vector3.Dot(_rigidbody.velocity, ) > -0.5f)
         //    return false;
@@ -79,7 +79,7 @@ public class EggShell : MonoBehaviour
 
     private IEnumerator _SpawnEgg()
     {
-        yield return new WaitForSeconds(0.01f);
+        yield return new WaitForSeconds(0.5f);
 
         Instantiate(_spawnedEgg, transform.position, _spawnedEgg.transform.rotation);
     }
