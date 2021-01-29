@@ -12,6 +12,8 @@ public class SaltShaker : MonoBehaviour
     private float _accelThreshold = 0.5f;
     [SerializeField]
     private Transform _spawnTransform;
+    [SerializeField]
+    private ProgressBar _bar;
 
 
     private Vector3 _lastPos;
@@ -42,6 +44,7 @@ public class SaltShaker : MonoBehaviour
     {
         var salt = Instantiate(_salt, _spawnTransform.position, _spawnTransform.rotation);
         salt.transform.parent = transform;
+        _bar.IncrementByOne();
     }
 
     private void LateUpdate()
