@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: 4c36f66477ca5094bb48583d6bb8b05f
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ashpalt
+    second: {fileID: 2100000, guid: 4344be820fd25e44085e25525e93a265, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ashpalt-1
+    second: {fileID: 2100000, guid: fe277340f9b0c724f81340dc543b23d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ashpalt-3
+    second: {fileID: 2100000, guid: e7a753d4a185c0649bb69637665a0316, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bricks-White
+    second: {fileID: 2100000, guid: 2eba4f7052ee45149b9f43b20a757efb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conc
+    second: {fileID: 2100000, guid: 37188dcfefb91dd44b3e8cfd43294b68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floors
+    second: {fileID: 2100000, guid: 14ffe4484383c2f4c954143eb0a3d712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: de314dfc94a383e43bf8107667ca6fdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #469
+    second: {fileID: 2100000, guid: e6188bb99f2168e46a81d2e8d893b274, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #470
+    second: {fileID: 2100000, guid: b5caee40bdcc09141bca50c448d47684, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #471
+    second: {fileID: 2100000, guid: 2430d5bd1ab90f04794a2dc451ed7d9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #472
+    second: {fileID: 2100000, guid: 38dab1cc2fa983a488eca35d07febfcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pavement
+    second: {fileID: 2100000, guid: cc290fefc97bdae4682731b75189c8de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pavement2
+    second: {fileID: 2100000, guid: 57929a770892c6a429e5e2bb15516d3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pip
+    second: {fileID: 2100000, guid: f8fa8d4a808a9ea4497a0dfce0be37a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: 48860b8146e2dbe438e9fd0497bb6aa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof Top
+    second: {fileID: 2100000, guid: 565aced92637ab14ea1e5a2f2bd2bd5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S1-int
+    second: {fileID: 2100000, guid: 43895a2c5723ff24cbe36baf936c992a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S1-int2
+    second: {fileID: 2100000, guid: a2abe5bb378ea904ca2703df3de62546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S1-int3
+    second: {fileID: 2100000, guid: b64a46e3d7acc774385bab65cf1e061f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S1-int4
+    second: {fileID: 2100000, guid: d5ba50cbc762a0f498a06c475297c0e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S1-int5
+    second: {fileID: 2100000, guid: d5a6d36af7de3294691e1168bf87bd67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S4
+    second: {fileID: 2100000, guid: c24026b2e8e74f140b4851dda49bf74e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sign-01
+    second: {fileID: 2100000, guid: a786e9123c490ea4684a80f026f23b12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sign-02
+    second: {fileID: 2100000, guid: 01e550a81984c5c4fbaebfc660eaedc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls
+    second: {fileID: 2100000, guid: ade211c437afdff49b39910cbfa2d718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: multi_Group_013
+    second: {fileID: 2100000, guid: e82049a81f424be47833f1d92fcfc5fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: multi_table_002
+    second: {fileID: 2100000, guid: 449a9dcdb91c55e449723ec1294cdae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 0020_Red
+    second: {fileID: 2100000, guid: f756810c93419e64c91596d5bdbadad4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 0128_White
+    second: {fileID: 2100000, guid: 5e3a4ab4d0d22c840aa00c86937e5bde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 08 - Default
+    second: {fileID: 2100000, guid: ccf5ff1f32f3f9f4f884bbdbcbdb7108, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Cladding_Siding_White
+    second: {fileID: 2100000, guid: 1d835485d1fd27f47b9f7f38ee7d9258, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_000
+    second: {fileID: 2100000, guid: 6577df94c0df8a34687abbf5d43956e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_004
+    second: {fileID: 2100000, guid: 8b7adeab7d6ea89438d711242e754cd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_008
+    second: {fileID: 2100000, guid: d3aca31b8e2d7554aae8384c7977cd51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_009
+    second: {fileID: 2100000, guid: 4af5a88b6c68ace4cae85c1e0cb777f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_A06
+    second: {fileID: 2100000, guid: b22a9a3c6abd72c4aa0c453d69bd25d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_D02
+    second: {fileID: 2100000, guid: 5100c674b9a0a8d48a1c715b7a651e13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_E01
+    second: {fileID: 2100000, guid: 2456bb4cb105a164e9ba0e1b351c92e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_E14
+    second: {fileID: 2100000, guid: 5f3f885af904afa42a5ecdebe777065a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_F08
+    second: {fileID: 2100000, guid: faa6801d8cb3efc49abd11a76b7d0831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_H10
+    second: {fileID: 2100000, guid: 2fe8febaf77424a40b1924b26ceeb1bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Color_K07
+    second: {fileID: 2100000, guid: 3c8ec8e8b89516d4389f876a8a78c167, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Concrete_Brushed
+    second: {fileID: 2100000, guid: adfb5cdbf0b711f44bf6cc9810210b87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Concrete_Brushed1
+    second: {fileID: 2100000, guid: 7067f31a31ea19d43aa32f02fe64263d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray CorrogateShiny Main
+    second: {fileID: 2100000, guid: 69f383ff7463c8d43a0dabc9753c8ad7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Ivory
+    second: {fileID: 2100000, guid: d2af49bbea8985d4093b1fc458766950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray LightGray
+    second: {fileID: 2100000, guid: 005014af27649ed428a1ea0cd983fdd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material10
+    second: {fileID: 2100000, guid: 813683088a0bb6140bae3eb6edc4f70d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Metal_Aluminum_Anodized
+    second: {fileID: 2100000, guid: 16709214dccb3a24a86699f5e2708af3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Metal_Corrogated_Brown
+    second: {fileID: 2100000, guid: 0fc0cfd66f299a9469c16dd2d05531a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Metal_Steel_Textured_White
+    second: {fileID: 2100000, guid: 8a6db25ecef232b4fa7aad393de3e1e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Plaster
+    second: {fileID: 2100000, guid: d9ac99ffd05feea4ba9ff1b3a130ba7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Stone_Marble_Brown
+    second: {fileID: 2100000, guid: 08d8f540b20b08e4ebc7ddfe9e85089c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Textile_Floral2_White
+    second: {fileID: 2100000, guid: 263ddcc18f562e249985c647b3b7d398, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Textile_Wheat2
+    second: {fileID: 2100000, guid: 758e012aec7dfbd4882ff0f6270ed65e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Tile_Ceiling_Drop
+    second: {fileID: 2100000, guid: ac9b0bf317b3e95429652657fc3bf150, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Tile_Linoleum_Brown
+    second: {fileID: 2100000, guid: 3df70451bfe1458439492a8b58650b10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Translucent_Glass_Gold
+    second: {fileID: 2100000, guid: 13e296958f85eb941b89e5605d53717f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Translucent_Glass_Orange
+    second: {fileID: 2100000, guid: b2a528530c90d5c4287b813b69d435be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Translucent_Glass_Red
+    second: {fileID: 2100000, guid: e3848d9932a45be499ba1a4ae3c00fb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray White Main
+    second: {fileID: 2100000, guid: 5f2bc53e9db82694ebc214e178d0ca2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray White2
+    second: {fileID: 2100000, guid: 5f5a6cba2a0b6de41bce0049865e8b6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Wood_Cherry
+    second: {fileID: 2100000, guid: 5d9d8779e2f7a5247a5e5e51d7fa943e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Wood_Grain_Stain
+    second: {fileID: 2100000, guid: b6343d07842da71488e975f16912f6fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray [Color_005]1
+    second: {fileID: 2100000, guid: 12932daf93a24ea459b26761ee32c2aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray [Concrete_Aggregate_Smoke]1
+    second: {fileID: 2100000, guid: db70e2dd732a7f441aa4482981e04939, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray [Fencing_Diamond_Mesh]2
+    second: {fileID: 2100000, guid: 32438608e7da305408083df1072b8039, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray [Metal_Aluminum_Anodized]1
+    second: {fileID: 2100000, guid: 5ad641106ae8a3047843211fd57615f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray [Metal_Aluminum_Anodized]2
+    second: {fileID: 2100000, guid: d4bca47de5031c54da76cce3e563b299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray [Metal_Corrogated_Shiny]1
+    second: {fileID: 2100000, guid: ccb908645ff02fb42bc40be3a6893596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray [Roofing_Metal_Standing_Seam_Red]1
+    second: {fileID: 2100000, guid: 588b8a3bf0c0ba4488fe7e96cfe9c1af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray [Wood_Cherry_Original]1
+    second: {fileID: 2100000, guid: 4168395032de67540b66afc46b0b0378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _0020_Red_
+    second: {fileID: 2100000, guid: 8475eb9a2ba2182408e09a002db0fe4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _0131_Silver_
+    second: {fileID: 2100000, guid: c3d5e8dad30ffd14e904acffb19807f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _0132_LightGray_
+    second: {fileID: 2100000, guid: 18a0bbbd7eb8e134fa80dbb6bd626688, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _0134_DimGray_
+    second: {fileID: 2100000, guid: 591f227faa1e254418fb05eb0e184299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _0135_DarkGray_
+    second: {fileID: 2100000, guid: e84a478e0fab71342b02d34d88cdf29e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _0137_Black_
+    second: {fileID: 2100000, guid: a126a1c418f17714a9b04eddc6f721b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _Beige_3
+    second: {fileID: 2100000, guid: ef2e599d48f98c84db107662b6904214, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _Beige_4
+    second: {fileID: 2100000, guid: b5ca042d202580e47be0ff16f5e7b41d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _Black_
+    second: {fileID: 2100000, guid: e1a985a03f1676943b8564ea3b1c340d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _CorrogateShiny_
+    second: {fileID: 2100000, guid: 55d5ee3c2c0d99b4784c502e8e788040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _CorrogateShiny_2
+    second: {fileID: 2100000, guid: ed72370b28a75804d877b069602b3886, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _CorrogateShiny_8
+    second: {fileID: 2100000, guid: c0e8e5925299a7f4697c917b564bcb36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _Ivory_
+    second: {fileID: 2100000, guid: 607e319c096dd7a4a8e972bb78141db9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _Ivory_1
+    second: {fileID: 2100000, guid: c40970436bc9b7345bcb2ee973432fb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray _LightGray_
+    second: {fileID: 2100000, guid: e7075a82281269548a3b6f6768e28fd4, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

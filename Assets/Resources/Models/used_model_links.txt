@@ -1,0 +1,108 @@
+restaurants：
+
+10_MM_fbx 麥當勞 (O，fbx可以，自創 material)
+https://free3d.com/3d-model/mcdonald-s-restaurant-with-furniture-2047.html
+
+
+4_fork.rar (O，fbx 自帶顏色)
+https://free3d.com/3d-model/fork-515242.html
+
+9_kitchenknife.zip (O，obj 自帶顏色)
+https://free3d.com/3d-model/kitchen-knife-769920.html
+
+8_Kitchen_Accessories.rar (O，fbx，no material，但是有 textures ，請自行組裝)
+https://free3d.com/3d-model/kitchen-accessories-841579.html
+
+
+1_plate.rar (O，fbx no material)
+https://free3d.com/3d-model/plate-175700.html
+
+2_wineglass.zip (O，fbx、obj no material)
+https://free3d.com/3d-model/wineglass-48650.html
+
+3_silverware.zip (O，obj no material)
+https://free3d.com/3d-model/silverware-53939.html
+
+
+0_lamp.zip (O，3ds、fbx、obj no material)
+https://free3d.com/3d-model/avonni-polyresin-table-lamp-214817.html
+
+5_pot.rar (O，obj no material)
+https://free3d.com/3d-model/cooking-pot-33147.html
+
+6_gasstove.zip (O，3ds no material)
+https://free3d.com/3d-model/gas-oven-72016.html
+
+
+kitchens ：
+
+8_kitchen.rar (O，fbx、obj，自帶貼圖)
+https://free3d.com/3d-model/kitchen-476687.html
+
+5_kitchen.rar (O，3ds、fbx、obj 都可以，自創 material)
+https://free3d.com/3d-model/kitchen-97041.html
+
+7_kitchensink.rar (O，3ds，no material)
+https://free3d.com/3d-model/basic-kitchen-sink-and-tap-24017.html
+
+
+tables：
+
+1_table.rar (O，fbx，自帶貼圖)
+https://free3d.com/3d-model/cinema4d-table-66762.html
+
+2_table_chair.rar (O，fbx，自創 material)
+https://free3d.com/3d-model/modern-elegant-chair-and-table-384981.html
+
+0_table_chair.zip (O，fbx、obj，no material)
+https://free3d.com/3d-model/masa-ve-sandalye-222808.html
+
+3_table_chair.rar (O，obj，no material)
+https://free3d.com/3d-model/minimalist-dining-table-69114.html
+
+
+ingredients：
+
+2_egg.zip (O，3ds，自創material)
+https://free3d.com/3d-model/egg-370117.html
+
+3_fruitstand.rar (O，obj，自創material即可)
+https://free3d.com/3d-model/fruit-stand-26128.html
+
+8_LettuceBibb.zip (O，obj，自帶顏色！)
+https://free3d.com/3d-model/lettucebibb-v1--505458.html
+
+9_birthday-cake.zip (O，obj，自帶顏色！)
+https://free3d.com/3d-model/birthdaycake-v3--633873.html
+
+10_pizza.zip (O，obj，自帶顏色！)
+https://free3d.com/3d-model/pepperoni-v2--940534.html
+
+11_Raw_meat.zip (O，dae，自創 material)
+https://free3d.com/3d-model/raw-meat-23145.html
+
+13_rotisserie_chicken.zip (O，obj，自帶顏色！)
+https://free3d.com/3d-model/rotisserie-chicken-v2--615386.html
+
+14_oreo.rar (O，obj，自創material)
+https://free3d.com/3d-model/oreo_biscuit-726461.html
+
+4_burger-fries-ice-cream.rar (O，fbx，no material)
+https://free3d.com/3d-model/junk-food-582643.html
+
+
+people：
+
+1_people.zip (O，obj，自創material)
+https://free3d.com/3d-model/dennis-posed-004-812878.html
+
+2_people.zip (O，fbx，自帶貼圖)
+https://free3d.com/3d-model/sophia-animated-001-idling-130876.html
+
+3_people.zip (O，obj，自帶貼圖)
+https://free3d.com/3d-model/091_aya-3dsmax-2020-189298.html
+
+4_people.zip (O，fbx，自帶貼圖)
+https://free3d.com/3d-model/nathan-animated-003-walking-644277.html
+
+

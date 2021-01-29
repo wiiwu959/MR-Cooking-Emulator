@@ -1,0 +1,33 @@
+﻿F:\WORKS\Net Works\Macdonald-01\t$m$p$$$\Mac-01.max
+F:\WORKS\Net Works\Macdonald-01\t$m$p$$$\MAXFILES.TXT
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Concrete_Brushed.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\CorrogateShiny.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Wood_Cherry_Original.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Fencing_Diamond_Mesh.png
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\500px-MUTCD_R1-1.svg[1].png
+F:\PATHES\MAPS\brick_texture3325.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Metal_Corrogated_Shiny.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Tile_Linoleum_Brown.jpg
+F:\WORKS\Net Works\Macdonald-01\CG72799-INFO.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Concrete_Aggregate_Smoke.jpg
+F:\WORKS\Net Works\Macdonald-01\1c76ab286ecc75c7893913ccc2ad1bdc.jpg
+F:\PATHES\MAPS\Asp.jpg
+F:\PATHES\MAPS\--_---3 .jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Concrete-rough.jpg
+F:\PATHES\MAPS\brick_texture3325erf.jpg
+F:\PATHES\MAPS\brick_texture3325bump.jpg
+F:\PATHES\MAPS\concrete_01.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Metal_Aluminum_Anodized.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Roofing_Metal_Standing_Seam_Red.jpg
+F:\PATHES\MAPS\Tile_Various_Gray.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Tile_Ceiling_Drop.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Cladding_Siding_White.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\woodgrain2.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Plaster.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Textile_Floral2_White.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Translucent_Glass_Tinted.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Metal_Steel_Textured_White.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Stone_Marble_Brown.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Tile_Mosaic_Browns.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Wood_Cherry.jpg
+C:\Users\Mohamed\Documents\3dsMax\sceneassets\images\Textile_Wheat.jpg
