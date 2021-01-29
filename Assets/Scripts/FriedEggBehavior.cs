@@ -103,6 +103,16 @@ public class FriedEggBehavior : MonoBehaviour
             if (_currentState == State.Overcooked)
             {
                 print(_currentState);
+
+                _rend.material.SetInt("_SrcBlend", (int)UnityEngine.Rendering.BlendMode.One);
+                _rend.material.SetInt("_DstBlend", (int)UnityEngine.Rendering.BlendMode.Zero);
+                _rend.material.SetInt("_ZWrite", 1);
+                _rend.material.DisableKeyword("_ALPHATEST_ON");
+                _rend.material.DisableKeyword("_ALPHABLEND_ON");
+                _rend.material.DisableKeyword("_ALPHAPREMULTIPLY_ON");
+                _rend.material.renderQueue = -1;
+
+
                 _rend.material.SetColor("_Color", new Color32(85, 45, 0, 0));
                 _yolk.material.SetColor("_Color", new Color32(123, 101, 32, 0));
             }
