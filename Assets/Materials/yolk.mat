@@ -135,7 +135,7 @@ Material:
     - _Max_Hover_: 0.004
     - _Max_In_Angle_: 0.6
     - _Max_Out_Angle_: 0.4
-    - _Metallic: 0
+    - _Metallic: 0.85
     - _Mode: 0
     - _NearLightFade: 0
     - _NearPlaneFade: 0
@@ -166,7 +166,7 @@ Material:
     - _RoundCornerMargin: 0.01
     - _RoundCornerRadius: 0.25
     - _RoundCorners: 0
-    - _Smoothness: 0.34
+    - _Smoothness: 0.2
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SphericalHarmonics: 0
