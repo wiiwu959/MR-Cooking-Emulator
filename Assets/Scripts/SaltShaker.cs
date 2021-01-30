@@ -23,7 +23,7 @@ public class SaltShaker : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        _timer = _coolDown;
     }
 
     // Update is called once per frame
