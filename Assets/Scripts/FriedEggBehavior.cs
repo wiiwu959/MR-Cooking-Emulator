@@ -21,10 +21,11 @@ public class FriedEggBehavior : MonoBehaviour
         Overcooked
     }
 
-
+    private AudioSource source;
     // Start is called before the first frame update
     void Start()
     {
+        source = GetComponent<AudioSource>();
         _rend = this.gameObject.transform.GetChild(0).GetComponent<MeshRenderer>();
         _yolk = this.gameObject.transform.GetChild(1).GetComponent<MeshRenderer>();
         _yolk.material.SetColor("_Color", new Color32(255, 195, 10, 0));
@@ -117,5 +118,16 @@ public class FriedEggBehavior : MonoBehaviour
                 _yolk.material.SetColor("_Color", new Color32(123, 101, 32, 0));
             }
         }
+    }
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.tag == "Pan")
+            source.Play();
+    }
+
+    private void OnCollisionExit(Collision collision)
+    {
+        if (collision.gameObject.tag == "Pan")
+            source.Stop();
     }
 }
